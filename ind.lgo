@@ -1,0 +1,1 @@
+var factor = 100var radius = 0str 25to Oval [	repeat 90 [		fd radius		rt 4		pu		home		pd	]][ radius = 3 * factor ]pc orangeOval[ radius = 2 * factor ]pc whiteOval[ radius = factor ]pc greenOvalfs 20pc whitepu fd 20wt HAPPYbk 20wt INDEPENDENCEbk 20 wt DAYhtbg sky

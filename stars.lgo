@@ -1,0 +1,1 @@
+var x = 1to raj [	fs [2*x]	pu fd x	wt *]repeat 500 [ raj  [ x = x + 0.05 ] rt 5 ]

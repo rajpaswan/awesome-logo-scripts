@@ -1,0 +1,1 @@
+htbg whitepc redvar x = 1var y = 1[ x = 1 ][ y = 1 ]repeat 25 [	fd y bk [ 2 * y ] fd y	pu rt 90	fd [ x + 5 ]	lt 90 pd	[ x = x + 0.5 ]	[ y = x * x ]]pu home pd[ x = 1 ][ y = 1 ]repeat 25 [	fd y bk [ 2 * y ] fd y	pu lt 90	fd [ x + 5 ]	rt 90 pd	[ x = x + 0.5 ]	[ y = x * x ]][ x = 1 ][ y = 1 ]pu home pdrt 60

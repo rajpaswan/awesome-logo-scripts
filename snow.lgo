@@ -1,0 +1,1 @@
+to u [ fd 2 ]to v [ u lt 60 u rt 120 u lt 60 u ]to w [ v lt 60 v rt 120 v lt 60 v ]to x [ w lt 60 w rt 120 w lt 60 w ]to y [ x lt 60 x rt 120 x lt 60 x ]to z [ y lt 60 y rt 120 y lt 60 y ]to snow [ repeat 6 [ y lt 60 ] ]to crystal [ repeat 6 [ snow lt 60 ] ]str 10bg skyrepeat 3 [ snow lt 120 ] rt 60

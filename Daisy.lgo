@@ -1,0 +1,1 @@
+to move [ pu fd 50 pd ]to triangle [ repeat 3 [ fd 30 rt 120 ] ] to blossom [ pc red repeat 22 [ triangle rt 15 ] ]to stem [ pc green rt 30 bk 70 ]to leaves [ pc green repeat 91 [ fd 1 rt 4 ] repeat 91 [ fd 1 lt 4 ] ]to ground [ bk 30 ]to daisy [ move triangle blossom stem leaves ground]bg skydaisyrt 100

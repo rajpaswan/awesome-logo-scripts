@@ -1,0 +1,1 @@
+var r=1var n=8str 2pc redbg blackrepeat 30 [     repeat n [ fd r rt [360/n] fd r lt [2*360/n] ]     [r=r+3]]rt [360/n]

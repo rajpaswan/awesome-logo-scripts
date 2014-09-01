@@ -1,0 +1,1 @@
+fd 100repeat 18[fd 10 rt 10]fd 100repeat 18[fd 10 rt 10]pufd 120 rt 90 fd 57 pdrepeat 36[fd 4 rt 10]purt 90 fd 100 rt 90pd bk 20 fd 40pu
